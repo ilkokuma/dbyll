@@ -6,8 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: ilkokuma
-google_analytics: dbyll
-title: dbyll
+google_analytics: 
+title: İlkokuma Yazma Portalı
 
 defaults:
   -
@@ -18,13 +18,13 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: İlkokuma
+  email: 
+  github: 
+  twitter: 
+  pinterest: 
+  linkedin: 
+  bio:  İlkokuma  Yazma Portalı
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -32,7 +32,7 @@ categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+# sidebar_background_image: sky.png
 
 BASE_PATH:
 

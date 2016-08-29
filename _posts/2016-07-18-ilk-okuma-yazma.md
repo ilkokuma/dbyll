@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İlk Okuma-Yazma Sayfası
+title: İlkokuma
 date: 2016-07-18 00:16
 comments: true
 tags: [Yaz bi yere]

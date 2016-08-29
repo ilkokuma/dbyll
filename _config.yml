@@ -14,9 +14,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: İlkokuma Yazma Portalı
 
-description: Stylish Jekyll Theme
+description: İlkokuma Yazma Öğretimi Portalı
 author:
   name: İlkokuma
   email: 
